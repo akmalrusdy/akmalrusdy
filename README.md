@@ -151,7 +151,7 @@ System](https://find-cataract.web.app/)
         />
     </a>
 
-- Mobile Applicatiion Development
+- Mobile Application Development
 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
         <img
