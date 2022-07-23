@@ -155,7 +155,7 @@ System](https://find-cataract.web.app/)
 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer">
         <img
-          src="https://img.shields.io/badge/Android_Studio-a4c639?style=for-the-badge&logo=Andorid&logoColor=white"
+          src="https://img.shields.io/badge/Android_Studio-a4c639?style=for-the-badge&logo=Android&logoColor=white"
           alt="Android"
           height="30"
         />
