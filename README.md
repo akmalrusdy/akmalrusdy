@@ -8,9 +8,8 @@
   />
 </p>
 
-- 🔭 I’m currently working on [Find Cataract
-System](https://find-cataract.web.app/) 
-- 🌱 I’m currently learning **Flask, Web-Dev, Android** 
+- 🔭 I’m currently working for DANA Indonesia 
+- 🌱 I’m currently learning **Java and SDET** 
 - 💬 Ask me about **Machine Learning, Data Analysis** 
 
 <h3 align="left">Connect with me:</h3>
